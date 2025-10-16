@@ -1,42 +1,57 @@
 ## Hi there 👋
 
-<!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#4F46E5;">Ritik Mohapatra</span>!</h1>
-<h3 align="center">💻 B.Tech Student | 🌱 Learning & Building Every Day</h3>
+<!-- Header with animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Hey+there!+👋;I'm+Ritik+Mohapatra;Aspiring+Java+%26+Web+Developer;Always+Learning+Something+New!" alt="Typing SVG" />
+</h1>
 
 ---
 
-### 🧠 About Me  
-🎓 I’m a B.Tech student passionate about coding and creating useful digital experiences.  
-🚀 I enjoy exploring new technologies, building small projects, and improving my problem-solving skills.  
-💡 I believe in continuous learning and creativity through code.  
+### 🧑‍💻 About Me  
+🎓 B.Tech student passionate about programming and problem-solving.  
+💡 Exploring **Java**, **HTML**, and **CSS** to build creative web projects.  
+🌱 Focused on learning, improving, and growing as a developer.  
+⚡ Motto: *"Code. Learn. Build. Repeat."*
 
 ---
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=coffeescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Styles-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode&perline=6" alt="tech stack" />
 </p>
 
 ---
 
-### ✨ What I Do  
-- 🧩 Learn and practice Java programming  
-- 🌐 Design and build web pages using HTML & CSS  
-- 📚 Experiment with new ideas and improve my coding logic  
+### 🚀 My Focus  
+- 🧩 Writing clean, efficient Java code  
+- 🌐 Building interactive web pages  
+- 💭 Expanding my skillset through small creative projects  
 
 ---
 
-### 📫 Connect With Me  
+### 💌 Connect With Me  
 <p align="center">
   <a href="mailto:ritikmohapatra11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ritikmohapatra11%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ritikmohapatra11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<p align="center">⭐ <b>“Code. Learn. Build. Repeat.”</b> ⭐</p>
+### 🎯 Fun Zone  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitikMohapatra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikMohapatra&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RitikMohapatra&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.ap
 
