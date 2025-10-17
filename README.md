@@ -7,29 +7,29 @@
 
 ---
 
-### 🧑‍💻 About Me  
-🎓 I’m a B.Tech student passionate about **coding** and **web development**.  
-💡 Learning **Java**, **HTML**, and **CSS** to create clean, efficient, and creative projects.  
-🚀 Always improving my problem-solving and design skills.  
-✨ *“Code. Learn. Build. Repeat.”*
+###  About Me  
+ I’m a B.Tech student passionate about **coding** and **web development**.  
+ Learning **Java**, **HTML**, and **CSS** to create clean, efficient, and creative projects.  
+ Always improving my problem-solving and design skills.  
+ *“Code. Learn. Build. Repeat.”*
 
 ---
 
-### 🛠️ Tech Stack  
+###  Tech Stack  
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode&theme=light" alt="Tech Stack" /></a>
 </p>
 
 ---
 
-### 🚀 My Focus  
-- 🧩 Writing efficient and structured code  
-- 🌐 Designing responsive, simple web pages  
-- 📚 Constantly learning new development concepts  
+### My Focus  
+- Writing efficient and structured code  
+- Designing responsive, simple web pages  
+- Constantly learning new development concepts  
 
 ---
 
-### 📫 Contact Me  
+###  Contact Me  
 <p align="center">
   <a href="mailto:ritikmohapatra11@gmail.com">
     <img src="ht
